@@ -126,6 +126,8 @@ Student-Data-Organizer/
 
 ## 🖥️ Sample Output
 
+```text
+
 1. Add Student and Display All Students
 
 Welcome to the Student Data Organizer!
@@ -193,6 +195,7 @@ Enter your choice: 5
 Enter your choice: 6
 
 Thank you for using Student Data Organizer!
+```
 
 -------
 
