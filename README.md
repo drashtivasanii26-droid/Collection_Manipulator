@@ -111,6 +111,7 @@ The program continues running until the user selects the Exit option.
 
 ## 📂 Project Files
 
+```text
 Student-Data-Organizer/
 
 │
@@ -119,6 +120,7 @@ Student-Data-Organizer/
 ├── output_add_student.png
 ├── output_update_delete.png
 └── output_subjects_exit.png
+```
 
 -------
 
