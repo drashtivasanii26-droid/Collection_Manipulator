@@ -93,14 +93,11 @@ while True:
     # 5. Display Subjects Offered
     elif choice == 5:
         print("\n--- Subjects Offered ---")
-        print("1. Math")
-        print("2. Science")
-        print("3. English")
-        print("4. Python")
-        print("5. Data Science")
-        print("6. Machine Learning")
-        print("7. Artificial Intelligence")
-        print("8. SQL")
+        print("1. Python")
+        print("2. Machine Learning")
+        print("3. Data Science")
+        print("4. Artificial Intelligence")
+        print("5. SQL")
 
     # 6. Exit
     elif choice == 6:

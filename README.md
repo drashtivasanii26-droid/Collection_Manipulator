@@ -65,9 +65,6 @@ record from the list.
 5. 📚 Display Subjects Offered
 
 The program displays the following subjects:
-* Math
-* Science
-* English
 * Python
 * Data Science
 * Machine Learning
